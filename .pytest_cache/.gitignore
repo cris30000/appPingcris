@@ -1,0 +1,35 @@
+# Created by pytest automatically.
+# Entornos virtuales
+venv/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de logs
+*.log
+
+# Bases de datos locales (SQLite si usas)
+*.db
+*.sqlite3
+
+# Cache de tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configs locales o secretos
+config/*.local

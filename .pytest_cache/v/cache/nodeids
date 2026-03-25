@@ -1,0 +1,5 @@
+[
+  "tests/test_users.py::test_create_user",
+  "tests/test_users.py::test_get_users",
+  "tests/test_users.py::test_ping"
+]
